@@ -1,5 +1,12 @@
 ## VADIS Project
 
+This GitHub project contains the source code of the published components developed in the VADIS project.
+
+More information about the DFG-funded VADIS project can be found here: https://vadis-project.github.io/
+
+A publicly accessible demonstrator can be found here: https://demo-vadis.gesis.org/
+
+
 <!--
 
 **Here are some ideas to get you started:**
